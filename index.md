@@ -6,3 +6,7 @@ I made some text show up.
 ``` javascript
 var js = 'what?';
 ```
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
